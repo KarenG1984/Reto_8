@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500;700&display=swap");
+
+body {
+  font-family: "Kaisei HarunoUmi", serif;
+  font-weight: 600;
+}
+
+.first__content h1 {
+  color: #0b5345;
+}
+.first__content h2 {
+  color: #0e6655;
+}
+.first__p span {
+  color: #f1c40f;
+}
+.second__p u {
+  color: #f1c40f;
+}
+.second__p i {
+  color: #4a235a;
+}
+.second__content p {
+  color: #154360;
+}
+.second__content span {
+  color: #4a235a;
+}
+.second__content u {
+  color: #c0392b;
+}
+
+table {
+  width: 45%;
+  border: 1px solid #000;
+}
+th,
+td {
+  /* width: 35%; */
+  text-align: center;
+  border: 1px solid #000;
+}
+table caption {
+  color: #154360;
+}
+tbody .tr_1,
+.tr_2 th {
+  color: #f1c40f;
+}
+tbody .tr_2 td,
+.tr_3 td {
+  color: #145a32;
+}
+tbody .tr_3 span {
+  color: #f1c40f;
+}
+tbody .tr_3 th,
+.tr_4 {
+  color: #c0392b;
+}
